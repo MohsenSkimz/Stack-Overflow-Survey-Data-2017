@@ -10,8 +10,8 @@ The code should run with no issues using Python versions 3.*.
 
 For this project, I was interestested in using Stack Overflow data from 2017 to understand better:
 - What are Top 5 Languages worked by professional?
-- Whte are Most country that have People used JavaScript?
-- Whte are Most IDE That Used By United States?
+- What are Most country that have People used JavaScript?
+- What are Most IDE That Used By United States?
 
 # File Descriptions
 
@@ -21,5 +21,5 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 - survey_results_schema.csv: gives the questions associated with each data column name
 
 # Result
-I blogged a post in Medium detailing the results for the public It only takes two min, I am glad to share it with you. [here]()
+I've written a post about my findings You can find it [here](https://medium.com/@A.Aqeel/stack-overflow-survey-data-2017-83eaee6cf991)
 
