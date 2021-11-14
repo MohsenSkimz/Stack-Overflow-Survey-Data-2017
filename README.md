@@ -15,9 +15,9 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 # File Descriptions
 
-- README.md : contain all details about the project.
+- README.md : all details about the project.
 - Stack Overflow 2017 Data.ipynb: jupyter notebook with CRISP-DM process
-- survey_results_public.csv.zip: contain the whole dataset used for the analysis.
+- survey_results_public.csv.zip: whole dataset used for the analysis.
 - survey_results_schema.csv: gives the questions associated with each data column name
 
 # Result
